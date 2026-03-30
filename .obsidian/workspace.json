@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa47851012f5a1a0",
+        "id": "ac31eea07d36ae4b",
         "type": "tabs",
         "children": [
           {
-            "id": "cabf8abdf3f2849a",
+            "id": "c5eb408166c9752f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-日记/2026-03-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026-03-30 的反向链接列表"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-日记/2026-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2026-03-30 的出链列表"
             }
           },
           {
@@ -150,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-日记/2026-03-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-03-30 的大纲"
             }
           }
         ]
@@ -173,14 +176,27 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9bfab41007fc2572",
   "lastOpenFiles": [
+    "📋-知识库搭建清单.md",
+    "📖-知识库说明.md",
+    "未命名.md",
+    "00-日记/2026-03-30.md",
     "03-学习笔记/2026-03-30_个人知识库搭建记录.md",
+    "99-草稿箱/Templater配置指南.md",
+    "99-草稿箱/日记模板.md",
+    "sync-to-github.ps1",
+    "get-plugin-urls.ps1",
+    "download-plugins.ps1",
+    "个人知识库/欢迎.md",
+    "get-plugins.ps1",
+    "02-AI资讯/AI日报_2026-03-30.md",
+    "push.ps1",
     "2026-03-30.md",
-    "init-repo.ps1",
-    "📖-知识库说明.md"
+    "init-repo.ps1"
   ]
 }
